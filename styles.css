@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+
+.nav-dot {
+    background-color: #e6e6e6;
+    border-color: #707070;
+}
+
+.current {
+    background-color: #707070;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.arrow {
+   margin: 40px;
+}
+
+.dot-holder {
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-dot {
+    margin: 10px;
+}
+
